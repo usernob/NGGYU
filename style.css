@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+#warning {
+    width: 100%;
+}
+
+#warning #head, #warning #desc {
+    width: fit-content;
+    margin: auto;
+    margin-top: 10px;
+    font-family: Monospace;
+    color: red;
+    font-size: 1rem;
+}
+
+#warning #desc {
+    font-size: 0.5rem;
+    color: #ffffff;
+}
+
+.content {
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#gretting {
+    margin: auto;
+    color: #ffffff;
+    font-size: 2rem;
+    font-family: Sans-Serif;
+}
+
+#countdown {
+    width: fit-content;
+    font-size: 9rem;
+    color: #ffffff;
+    font-family: Monospace;
+}

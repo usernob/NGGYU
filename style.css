@@ -13,11 +13,11 @@
     margin-top: 10px;
     font-family: Monospace;
     color: red;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 #warning #desc {
-    font-size: 0.5rem;
+    font-size: 1.5rem;
     color: #ffffff;
 }
 
@@ -30,13 +30,13 @@
 #gretting {
     margin: auto;
     color: #ffffff;
-    font-size: 2rem;
+    font-size: 4rem;
     font-family: Sans-Serif;
 }
 
 #countdown {
     width: fit-content;
-    font-size: 9rem;
+    font-size: 11rem;
     color: #ffffff;
     font-family: Monospace;
 }
